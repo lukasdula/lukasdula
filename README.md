@@ -5,8 +5,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-## <img width="512" height="512" alt="malware_18725970" src="https://github.com/user-attachments/assets/9d2a1c8a-7377-44c6-8235-9a76be0bf24e" />
- Goals
+##    Goals
 - Finish all parts of the **CCNA certification**.    
 - Improve my skills in **network monitoring with Wireshark**.
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
@@ -23,7 +22,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 - **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
 ---
 
-## 📂 Projects & Labs
+## 🗂 Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
