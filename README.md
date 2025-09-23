@@ -24,7 +24,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 - **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
 ---
 
-## 🗂 Projects & Labs
+## <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
