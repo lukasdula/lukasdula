@@ -1,6 +1,4 @@
 # Hi, I'm Lukas <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-4b3b-b25f-c18d69a86337" />             
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V5cHJ4aHU0aTBkN3A3NWRrZTQ2aHhibjVibjRwMmM3MG16OGFreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif
-
 
 
 I'm an aspiring **Network Engineer** from Czechia, now studying **CCNA I -> Introduction to Networks** at ČVUT.  
