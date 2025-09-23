@@ -1,4 +1,5 @@
-# Hi, I'm Lukas 👨‍💻 
+# Hi, I'm Lukas 👨‍💻 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bc3dd6ad-76f6-4c1a-92fc-8ef1a279f9f4" />
+
 
 I'm an aspiring **Network Engineer** from Czechia, now studying **CCNA I -> Introduction to Networks** at ČVUT.  
 I enjoy designing and building networks, and I like how each lab helps me understand networking more deeply. 
