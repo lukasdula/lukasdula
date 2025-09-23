@@ -5,7 +5,8 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-## 📈 Goals
+## <img width="512" height="512" alt="malware_18725970" src="https://github.com/user-attachments/assets/9d2a1c8a-7377-44c6-8235-9a76be0bf24e" />
+ Goals
 - Finish all parts of the **CCNA certification**.    
 - Improve my skills in **network monitoring with Wireshark**.
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
