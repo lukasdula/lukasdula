@@ -1,4 +1,4 @@
-# Hi, I'm Lukáš 👨‍💻
+# Hi, I'm Lukas 👨‍💻
 
 I'm an aspiring **Network Engineer** from Czechia, now studying **CCNA I – Introduction to Networks** at ČVUT.  
 I enjoy designing and building networks, and I like how each lab helps me understand networking more deeply. 
