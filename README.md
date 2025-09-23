@@ -7,7 +7,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-##  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" /> Goals
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" /> ## Goals
 - Finish all parts of the **CCNA certification**.    
 - Improve my skills in **network monitoring with Wireshark**.
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
@@ -15,7 +15,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a535360-5aea-42bf-a8f4-fc938c79c170" /> Skills & Tools
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a535360-5aea-42bf-a8f4-fc938c79c170" />  ## Skills & Tools
 - **Virtualization:** VirtualBox, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
 - **Monitoring:** Wireshark, basic traffic analysis.
