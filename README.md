@@ -37,14 +37,14 @@ These projects show my path from simple labs to more complex networks.
 ---
 
 
-# Hi, I'm Lukas 👨‍💻
+# Hi, I'm Lukas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/user/user-original.svg" width="25"/>
 
 I'm an aspiring **Network Engineer** from Czechia, now studying **CCNA I – Introduction to Networks** at ČVUT.  
 I enjoy designing and building networks, and I like how each lab helps me understand networking more deeply.  
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/target/target-original.svg" width="25"/>
 - Finish all parts of the **CCNA certification**.  
 - Improve my skills in **network monitoring with Wireshark**.  
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.  
@@ -52,18 +52,17 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-## ⚙️ Skills & Tools
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cisco_logo.svg" width="20"/> **Networking:** All main functions from CCNA I – switching, routing, addressing, NAT, DHCP, ACLs.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cisco_logo.svg" width="20"/> **Lab tools:** Cisco Packet Tracer, GNS3.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Wireshark_icon.png" width="20"/> **Monitoring:** Wireshark, basic traffic analysis.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="20"/> **Virtualization:** VirtualBox, QEMU.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="20"/> **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-markdown.svg" width="20"/> **Documentation:** Notes in English and Czech (Obsidian → VS Code → GitHub).  
+## ⚙️ Skills & Tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="25"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="20"/> **Networking:** All main functions from CCNA I – switching, routing, addressing, NAT, DHCP, ACLs.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="20"/> **Lab tools:** Cisco Packet Tracer, GNS3.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="20"/> **Monitoring:** Wireshark, basic traffic analysis.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="20"/> **Virtualization:** VirtualBox, QEMU.  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="20"/> **Documentation:** Notes in English and Czech (Obsidian → VS Code → GitHub).  
 
 ---
 
-## 📂 Projects & Labs
+## 📂 Projects & Labs <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.  
 These projects show my path from simple labs to more complex networks.  
 
@@ -71,10 +70,13 @@ These projects show my path from simple labs to more complex networks.
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with me <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="25"/>
 - 📧 Email: [letifers@gmail.com](mailto:letifers@gmail.com)  
 - 📍 Location: Czechia  
 - 💼 LinkedIn: *(coming soon)*  
+
+---
+
 
 ---
 
