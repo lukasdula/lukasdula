@@ -6,21 +6,20 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 ---
 
 ## 🎯 Goals
-- Finish all parts of the **CCNA certification**.  
-- Build more advanced labs and projects in **Packet Tracer** and **GNS3**.   
-- Improve my skills in **network monitoring with Wireshark**.   
+- Finish all parts of the **CCNA certification**.    
+- Improve my skills in **network monitoring with Wireshark**.
+- Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
 - Get real-world skills for a future role as a **Junior Network Engineer**.  
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs. 
-- **Lab tools:** Cisco Packet Tracer, GNS3.  
+- **Virtualization:** VirtualBox, QEMU.
+- **Lab tools:** Cisco Packet Tracer, GNS3.    
+- **Monitoring:** Wireshark, basic traffic analysis.
 - **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
-- **Virtualization:** VirtualBox, QEMU.  
-- **Monitoring:** Wireshark, basic traffic analysis.  
 - **Documentation:** Structured notes in English and Czech (Obsidian -> Visual Studio Code - > GitHub).   
-
+- **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
 ---
 
 ## 📂 Projects & Labs
