@@ -31,7 +31,7 @@ These projects show my path from simple labs to more complex networks.
 
 ---
 
-## 🌐 Connect with me
+## <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/69e14d21-7131-4192-8368-524972de9426" /> Connect with me
 - ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)  
 - 📍 Location: Czechia  
 - 💼 LinkedIn: *(coming soon)*  
