@@ -1,4 +1,5 @@
-# Hi, I'm Lukas 👨‍💻
+# Hi, I'm Lukas 👨‍💻 <img width="512" height="512" alt="network-connection_4492058" src="https://github.com/user-attachments/assets/3ecfb2c3-e19f-4d9e-a2a5-e595abb9ff74" />
+
 
 
 
