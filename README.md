@@ -1,4 +1,4 @@
-# Hi, I'm Lukas 👨‍💻<img width="408" height="408" alt="emoji-mashup" src="https://github.com/user-attachments/assets/1ddbc10d-4fa1-4718-9897-4d839113ebe1" />
+# Hi, I'm Lukas 👨‍💻
 
 
 
