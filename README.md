@@ -40,4 +40,4 @@ These projects show my path from simple labs to more complex networks.
 - 💼 LinkedIn: *(coming soon)*  
 
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
+
