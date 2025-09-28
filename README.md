@@ -15,7 +15,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 ---
 
 ## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a535360-5aea-42bf-a8f4-fc938c79c170" />  Skills & Tools
-- **Virtualization:** VirtualBox, QEMU.
+- **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
 - **Monitoring:** Wireshark, basic traffic analysis.
 - **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
