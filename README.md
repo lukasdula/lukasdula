@@ -9,7 +9,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
- ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" />  Goals
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" />  Goals
 - Finish all parts of the **CCNA certification**.    
 - Improve my skills in **network monitoring with Wireshark**.
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
@@ -17,7 +17,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  # Skills
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
 
 - **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
@@ -27,7 +27,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 - **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
