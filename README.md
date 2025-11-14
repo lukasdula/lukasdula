@@ -14,7 +14,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4a535360-5aea-42bf-a8f4-fc938c79c170" />  Skills & Tools
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4a535360-5aea-42bf-a8f4-fc938c79c170" />  Skills & Tools
 - **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
 - **Monitoring:** Wireshark, basic traffic analysis.
@@ -23,14 +23,14 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 - **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
 ---
 
-## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
 
-## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" /> Connect with me
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" /> Connect with me
 - ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)  
 - 📍 Location: Czechia  
 - 💼 LinkedIn: *(coming soon)*  
