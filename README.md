@@ -17,7 +17,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
 
 - **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
