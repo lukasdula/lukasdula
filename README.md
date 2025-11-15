@@ -9,7 +9,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" /> <br> Goals
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" />  Goals
 - Finish all parts of the **CCNA certification**.    
 - Improve my skills in **network monitoring with Wireshark**.
 - Build more advanced labs and projects in **Packet Tracer** and **GNS3**.    
@@ -17,7 +17,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" /> <br> Skills
+# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" /> Skills
 
 - **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
@@ -28,14 +28,14 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 ---
 
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" /> <br> Projects & Labs
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" /> Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" /> <br> Connect with me
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" />  Connect with me
 - ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)  
 - 📍 Location: Czechia  
 - 💼 LinkedIn: *(coming soon)*  
