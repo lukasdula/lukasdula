@@ -17,7 +17,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 ---
 
-# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" /> Skills
+# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
 
 - **Virtualization:** VirtualBox, TigerVNC, QEMU.
 - **Lab tools:** Cisco Packet Tracer, GNS3.    
@@ -28,7 +28,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 ---
 
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" /> Projects & Labs
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my path from simple labs to more complex networks.  
 👉 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
