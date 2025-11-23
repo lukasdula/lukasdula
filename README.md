@@ -21,7 +21,7 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 - **Virtualization:** VirtualBox, KVM, QEMU.
 - **Lab tools:** GNS3, Packet Tracer, Wireshark, VirtualBox, QEMU/KVM
-- Server Services: DHCP, DNS, HTTP (Apache2 / IIS), SSH    
+- **Server Services:** DHCP, DNS, HTTP (Apache2 / IIS), SSH    
 - **Monitoring:** Wireshark, basic traffic analysis.
 - **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
 - **Documentation:** Obsidian, Visual Studio Code.   
