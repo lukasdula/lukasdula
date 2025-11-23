@@ -19,12 +19,13 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 
 # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
 
-- **Virtualization:** VirtualBox, TigerVNC, QEMU.
-- **Lab tools:** Cisco Packet Tracer, GNS3.    
+- **Virtualization:** VirtualBox, KVM, QEMU.
+- **Lab tools:** GNS3, Packet Tracer, Wireshark, VirtualBox, QEMU/KVM
+- Server Services: DHCP, DNS, HTTP (Apache2 / IIS), SSH    
 - **Monitoring:** Wireshark, basic traffic analysis.
 - **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
-- **Documentation:** Structured notes in English and Czech (Obsidian -> Visual Studio Code - > GitHub).   
-- **Networking:** All main functions covered in CCNA I – switching, routing, addressing, NAT, DHCP, ACLs...
+- **Documentation:** Obsidian, Visual Studio Code.   
+- **Networking:VLAN segmentation, Inter-VLAN routing, OSPF routing, static routing, ACL policies, DHCP & DHCP relay, NAT/PAT translation, Port-security, STP redundancy, GRE tunneling, basic NTP & Syslog setup
 ---
 
 
