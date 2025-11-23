@@ -25,7 +25,8 @@ I enjoy designing and building networks, and I like how each lab helps me unders
 - **Monitoring:** Wireshark, basic traffic analysis.
 - **Operating systems:** Windows 11 Pro, Xubuntu (KDE Plasma).  
 - **Documentation:** Obsidian, Visual Studio Code.   
-- **Networking:** VLAN segmentation, Inter-VLAN routing, OSPF routing, static routing, ACL policies, DHCP & DHCP relay, NAT/PAT translation, Port-security, STP redundancy, GRE tunneling, basic NTP & Syslog setup
+- **Networking:** Inter-VLAN routing, OSPF, static routing, ACL, DHCP, NAT/PAT, Port-security, STP, redundancy, GRE, NTP, Syslog, VLAN...
+
 ---
 
 
