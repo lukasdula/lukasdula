@@ -1,3 +1,17 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/lukasdula/images/main/0cf4690a-7560-41b1-9a7c-09f7eca3af08.png"
+    alt="Lukas Dula | home lab portfolio"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
+
+
+
+
+
+
+
 # <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-4b3b-b25f-c18d69a86337" />  Hi, I'm Lukas           
 
 
