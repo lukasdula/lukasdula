@@ -40,6 +40,6 @@ These projects show my path from simple labs to more complex networks.
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" />  Connect with me
 - ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)  
 - 📍 Location: Czech Republic  
-- 💼 LinkedIn: *(coming soon)*  
+- 💼 LinkedIn: [Lukáš Dula](https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/)
 
 ---
