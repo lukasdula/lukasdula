@@ -39,7 +39,7 @@ I enjoy designing networks and understanding how routing, security, and monitori
 ---
 
 # <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
-- **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog
+- **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
 - **Network security:** OPNsense firewall, firewall rules, NAT, RADIUS authentication
 - **Monitoring:** Zabbix, Wireshark, basic traffic analysis
 - **Server services:** DHCP, DNS, HTTP (Apache2 / IIS), SSH, RADIUS server
