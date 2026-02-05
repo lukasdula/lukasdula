@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/lukasdula/images/main/cat-admin.png"
+    src="https://raw.githubusercontent.com/lukasdula/images/main/admin-cat.png"
     alt="Lukas Dula | home lab | portfolio"
-    style="max-width: 100%; height: auto;"
+    width="100%"
   />
 </p>
+
 
 
 
