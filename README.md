@@ -67,26 +67,21 @@ You can find all my projects and labs in the [repositories section](https://gith
 
 ## Connect with me
 
-<p>
+<h3>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/linkedin.png" width="28" style="vertical-align: middle;" />
-  <strong style="font-size: 1.1em; margin-left: 8px;">
-    <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/">Lukáš Dula</a>
-  </strong>
-</p>
+  <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/">Lukáš Dula</a>
+</h3>
 
-<p>
+<h3>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/location.png" width="28" style="vertical-align: middle;" />
-  <strong style="font-size: 1.1em; margin-left: 8px;">
-    Czech Republic
-  </strong>
-</p>
+  Czech Republic
+</h3>
 
-<p>
+<h3>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/seznam%20email.png" width="28" style="vertical-align: middle;" />
-  <strong style="font-size: 1.1em; margin-left: 8px;">
-    <a href="mailto:lukasdula@seznam.cz">lukasdula@seznam.cz</a>
-  </strong>
-</p>
+  <a href="mailto:lukasdula@seznam.cz">lukasdula@seznam.cz</a>
+</h3>
+
 
 
 
