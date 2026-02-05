@@ -14,11 +14,6 @@
   Hi, I'm Lukas
 </h1>
 
-
-
-     
-
-
 I'm an aspiring **Network Engineer** from the Czech Republic.
 I have **completed CCNA I – Introduction to Networks** at Czech Technical University in Prague and I actively build networking projects in **GNS3**.
 
