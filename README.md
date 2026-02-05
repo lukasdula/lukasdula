@@ -19,7 +19,7 @@
 # <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-4b3b-b25f-c18d69a86337" />  Hi, I'm Lukas           
 
 
-
+</p>
 
 
 
@@ -30,11 +30,11 @@ I have **completed CCNA I – Introduction to Networks** at Czech Technical Univ
 I enjoy designing networks and understanding how routing, security, and monitoring work together in real-world scenarios.
 
 
-
+</p>
   
 ---
 
-
+</p>
 
 
 # Projects & Labs
@@ -43,13 +43,13 @@ These projects show my progress from simple labs to more complex networks.
 You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
 
-
+</p>
 
 
 ---
 
 
-
+</p>
 
 
 # Goals
@@ -60,13 +60,13 @@ You can find all my projects and labs in the -> [repositories section](https://g
 - Build **better and more complex networks**
 
 
-
+</p>
 
 
 ---
 
 
-
+</p>
 
 
 # Skills
@@ -83,13 +83,13 @@ You can find all my projects and labs in the -> [repositories section](https://g
 </a>
 
 
-
+</p>
 
 
 ---
 
 
-
+</p>
 
 
 # Connect with me
