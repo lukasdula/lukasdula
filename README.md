@@ -9,13 +9,15 @@
 
 
 
-
-
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-43b-b25f-c18d69a86337" /> 
-
-# Hi, I'm Lukas
-
-
+<h1>
+  <img
+    src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png"
+    width="100"
+    height="100"
+    alt="Hacker Cat Icon"
+  />
+  Hi, I'm Lukas
+</h1>
 
      
 
