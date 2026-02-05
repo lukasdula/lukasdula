@@ -6,14 +6,14 @@
 
 
 
-
+---
 
 
 <h1>
   <img
     src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png"
-    width="100"
-    height="100"
+    width="110"
+    style="vertical-align: middle;"
     alt="Hacker Cat Icon"
   />
   Hi, I'm Lukas
