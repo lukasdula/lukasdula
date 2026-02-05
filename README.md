@@ -65,7 +65,7 @@ You can find all my projects and labs in the [repositories section](https://gith
 
 ---
 
-## Connect with me
+# Connect with me
 
 <p>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/linkedin.png" width="30" />
