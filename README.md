@@ -65,8 +65,8 @@ You can find all my projects and labs in the [repositories section](https://gith
 ---
 
 # Connect with me
-- 📍 Location: Czech Republic 
-- 💼 LinkedIn: [Lukáš Dula](https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/)
-- ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)
+📍 Location: Czech Republic 
+💼 LinkedIn: [Lukáš Dula](https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/)
+✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)
   
 ---
