@@ -12,7 +12,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png" width="110" align="middle" alt="Hacker Cat Icon">
   Hi, I'm Lukas
-
 </h1>
 
 
