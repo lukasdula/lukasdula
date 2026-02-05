@@ -18,19 +18,17 @@
 
 # <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-4b3b-b25f-c18d69a86337" />  Hi, I'm Lukas           
 
-<br clear="left"/>
-
 
 I'm an aspiring **Network Engineer** from the Czech Republic.
 I have **completed CCNA I – Introduction to Networks** at Czech Technical University in Prague and I actively build networking projects in **GNS3**.
 
 I enjoy designing networks and understanding how routing, security, and monitoring work together in real-world scenarios.
 
-<br clear="left"/>
+
   
 ---
 
-<br clear="left"/>
+
 
 # Projects & Labs
 
@@ -38,11 +36,11 @@ I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my progress from simple labs to more complex networks.
 You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
-<br clear="left"/>
+
 
 ---
 
-<br clear="left"/>
+<b><b>
 
 # Goals
 - Build a strong **junior network engineer** portfolio
@@ -51,11 +49,11 @@ You can find all my projects and labs in the -> [repositories section](https://g
 - Learn **MikroTik RouterOS** in GNS3
 - Build **better and more complex networks**
 
-<br clear="left"/>
+
 
 ---
 
-<br clear="left"/>
+
 
 # Skills
 - **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
@@ -70,11 +68,11 @@ You can find all my projects and labs in the -> [repositories section](https://g
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/ccna-itn.png" width="140" alt="CCNA Introduction to Networks">
 </a>
 
-<br clear="left"/>
+
 
 ---
 
-<br clear="left"/>
+
 
 # Connect with me
 
