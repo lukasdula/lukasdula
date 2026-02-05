@@ -9,16 +9,11 @@
 
 
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png" width="110" alt="Hacker Cat Icon">
-    </td>
-    <td valign="middle">
-      <h1>Hi, I'm Lukas</h1>
-    </td>
-  </tr>
-</table>
+<h1>
+  <img src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png" width="110" align="middle" alt="Hacker Cat Icon">
+  Hi, I'm Lukas
+</h1>
+
 
 
      
