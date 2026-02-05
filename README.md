@@ -25,8 +25,12 @@ I'm an aspiring **Network Engineer** from the Czech Republic.
 I have **completed CCNA I – Introduction to Networks** at Czech Technical University in Prague and I actively build networking projects in **GNS3**.
 
 I enjoy designing networks and understanding how routing, security, and monitoring work together in real-world scenarios.
+
+<br clear="left"/>
   
 ---
+
+<br clear="left"/>
 
 # Projects & Labs
 
@@ -47,8 +51,11 @@ You can find all my projects and labs in the -> [repositories section](https://g
 - Learn **MikroTik RouterOS** in GNS3
 - Build **better and more complex networks**
 
+<br clear="left"/>
+
 ---
 
+<br clear="left"/>
 
 # Skills
 - **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
@@ -63,8 +70,11 @@ You can find all my projects and labs in the -> [repositories section](https://g
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/ccna-itn.png" width="140" alt="CCNA Introduction to Networks">
 </a>
 
+<br clear="left"/>
+
 ---
 
+<br clear="left"/>
 
 # Connect with me
 
