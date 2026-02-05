@@ -75,12 +75,6 @@ You can find all my projects and labs in the -> [repositories section](https://g
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/lukasdula/images/main/location.png" width="30" style="vertical-align: middle;" />
-  &nbsp;&nbsp;
-  Czech Republic
-</p>
-
-<p>
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/seznam%20email.png" width="30" style="vertical-align: middle;" />
   &nbsp;&nbsp;
   <a href="mailto:lukasdula@seznam.cz">lukasdula@seznam.cz</a>
