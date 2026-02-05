@@ -29,8 +29,11 @@ I enjoy designing networks and understanding how routing, security, and monitori
 ---
 
 # Projects & Labs
+
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
+
 These projects show my progress from simple labs to more complex networks.
+
 You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
