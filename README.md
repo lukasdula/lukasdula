@@ -11,9 +11,8 @@
 
 
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-43b-b25f-c18d69a86337" />
+# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09778e3b-b155-43b-b25f-c18d69a86337" /> Hi, I'm Lukas
 
-# Hi, I'm Lukas
 
 
      
