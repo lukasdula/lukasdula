@@ -29,7 +29,7 @@ I enjoy designing networks and understanding how routing, security, and monitori
 
 ---
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b10332cd-3fc0-4b6d-9247-fc8ef23ee055" />  Goals
+# Goals
 - Build a strong **junior network engineer** portfolio
 - Improve **network security** and **firewall rules**
 - Learn how to work with **firewalls** in network labs
@@ -40,7 +40,7 @@ I enjoy designing networks and understanding how routing, security, and monitori
 
 ---
 
-# <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/427c4a83-f2d1-46f9-91cf-df79ed7ace6c" />  Skills
+# Skills
 - **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
 - **Network security:** OPNsense firewall, firewall rules, NAT, RADIUS authentication
 - **Monitoring:** Zabbix, Wireshark, basic traffic analysis
@@ -57,14 +57,14 @@ I enjoy designing networks and understanding how routing, security, and monitori
 ---
 
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6db344cb-a593-4629-804a-8e9fee6a2ab3" />  Projects & Labs
+# Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my progress from simple labs to more complex networks.
 You can find all my projects and labs in the [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
 
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a95e82d1-7f32-4b6e-b8c3-986e5621be16" />  Connect with me
+# Connect with me
 - 📍 Location: Czech Republic 
 - 💼 LinkedIn: [Lukáš Dula](https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/)
 - ✉️ Email: [letifers@gmail.com](mailto:letifers@gmail.com)
