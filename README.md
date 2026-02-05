@@ -1,10 +1,5 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/lukasdula/images/main/admin-cat.png"
-    alt="Lukas Dula | home lab | portfolio"
-    width="100%"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/lukasdula/images/main/admin-cat.png" alt="Lukas Dula | home lab | portfolio" width="100%" />
+
 
 
 
