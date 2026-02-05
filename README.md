@@ -67,8 +67,8 @@ You can find all my projects and labs in the [repositories section](https://gith
 ## Connect with me
 
 - <img src="https://raw.githubusercontent.com/lukasdula/images/main/linkedin.png" alt="LinkedIn" width="20" /> [Lukáš Dula](https://www.linkedin.com/in/luk%C3%A1%C5%A1-dula-b92732299/)
-- Location: Czech Republic
-- Email: [letifers@gmail.com](mailto:letifers@gmail.com)
+  Czech Republic
+  [lukasdula@seznam.cz](mailto:lukasdula@seznam.cz)
 
 
 ---
