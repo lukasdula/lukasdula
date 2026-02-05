@@ -27,14 +27,20 @@ I have **completed CCNA I – Introduction to Networks** at Czech Technical Univ
 
 I enjoy designing networks and understanding how routing, security, and monitoring work together in real-world scenarios.
 
+
+
 ---
+
 
 # Projects & Labs
 I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
 These projects show my progress from simple labs to more complex networks.
 You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
+
+
 ---
+
 
 # Goals
 - Build a strong **junior network engineer** portfolio
@@ -46,6 +52,7 @@ You can find all my projects and labs in the -> [repositories section](https://g
 
 
 ---
+
 
 # Skills
 - **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
