@@ -27,7 +27,12 @@ I have **completed CCNA I – Introduction to Networks** at Czech Technical Univ
 
 I enjoy designing networks and understanding how routing, security, and monitoring work together in real-world scenarios.
 
+---
 
+# Projects & Labs
+I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
+These projects show my progress from simple labs to more complex networks.
+You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
 
@@ -54,15 +59,6 @@ I enjoy designing networks and understanding how routing, security, and monitori
 <a href="https://www.credly.com/badges/debdc2f1-e025-4f10-8fe0-3e0ea0f92cb0/public_url">
   <img src="https://raw.githubusercontent.com/lukasdula/images/main/ccna-itn.png" width="140" alt="CCNA Introduction to Networks">
 </a>
-
-
----
-
-
-# Projects & Labs
-I’m building a portfolio of projects in **Packet Tracer** and **GNS3**.
-These projects show my progress from simple labs to more complex networks.
-You can find all my projects and labs in the -> [repositories section](https://github.com/lukasdula?tab=repositories).
 
 ---
 
