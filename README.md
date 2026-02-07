@@ -9,10 +9,8 @@
 
 
 
-<h1>
-  <img src="https://raw.githubusercontent.com/lukasdula/images/main/hacker-cat.png" width="110" align="middle" alt="Hacker Cat Icon">
   Hi, I'm Lukas
-</h1>
+
 
 
 I'm an aspiring **Network Engineer** from the Czech Republic.
