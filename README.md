@@ -53,7 +53,7 @@ You can find all my projects and labs in the -> [repositories section](https://g
 - **Networking:** VLAN, Inter-VLAN routing, static routing, OSPF, NAT/PAT, ACL, VRRP, GRE tunnels, LACP, RSTP, NTP, Syslog...
 - **Network security:** OPNsense firewall, firewall rules, NAT, RADIUS authentication
 - **Monitoring:** Zabbix, Wireshark, basic traffic analysis
-- **Server services:** DHCP, DNS, HTTP (Apache2 / IIS), SSH, RADIUS server
+- **Server services:** DHCP, DNS, HTTP (Apache2 / IIS), SSH, RADIUS server, Windows Active Directory
 - **Lab tools & virtualization:** GNS3, Cisco Packet Tracer, VirtualBox, KVM/QEMU
 - **Operating systems:** Windows, Linux, Windows Server 2022
 - **Documentation:** Obsidian, Visual Studio Code, Markdown
